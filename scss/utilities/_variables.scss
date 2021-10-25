@@ -1,0 +1,35 @@
+/* ============================================= */
+/*              Variables                        */
+/* ============================================= */
+
+//Button Colors
+$color-default:#51ddfc; //default, col 11, typography link
+$color-error: #e4757a;  //error, col 9
+$color-info: #927bc1;  //info, col-1
+$color-success: #63cc82; //success, col 10
+$color-warning: #fd7856; //warning, col 2
+
+//Form
+$color-input: #58e1c1; //input, nav-hover bgk color, primary headline, blockquote
+
+//Grid
+$color-col-3: #deb2ee;
+$color-col-4: #7ee6fd;
+$color-col-5: #88d9a0;
+$color-col-6: #4da2bb;
+$color-col-7: #ec9fa3;
+$color-col-8: #fd9f85;
+$color-col-12: #80e8d1;
+
+//Images
+$color-img-frame: #ccc;
+
+//Navigation
+$white: #fff;
+
+//Typography
+$color-headline-secondary: #777;
+
+//Media Queries
+$min-w: 768px;
+$max-w: 1400px;

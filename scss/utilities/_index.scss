@@ -2,5 +2,6 @@
 // Import Partials from Utility
 //===========================================
 
-@import 'utilities/variables',
-        'utilities/mixins';
+@import '../utilities/variables',
+        '../utilities/mixins',
+        '../utilities/media_queries';

@@ -2,7 +2,8 @@
 // Import Partials from Component
 //===========================================
 
-@import 'component/navigaton',
-        'component/grid',
-        'component/form',
-        'component/button';
+@import '../component/button',
+        '../component/form',
+        '../component/grid',
+        '../component/navigation',
+        '../component/image';
